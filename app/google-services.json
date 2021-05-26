@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259387747763",
+    "project_id": "medevac-992c2",
+    "storage_bucket": "medevac-992c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259387747763:android:188e0988383c8be7d22fc6",
+        "android_client_info": {
+          "package_name": "com.example.medevac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259387747763-ulo08il1v6ab8cne63chphrv786gptv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEEIgPyceEhSLFj9TYnuF0WmEL6m3vlPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259387747763-ulo08il1v6ab8cne63chphrv786gptv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
